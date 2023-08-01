@@ -4,13 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="600011a4-7179-476a-a6ea-5f1c27070601" name="Changes" comment="😇 커밋 성공3">
-      <change beforePath="$PROJECT_DIR$/port-vite/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/port-vite/.gitignore" afterDir="false" />
+    <list default="true" id="600011a4-7179-476a-a6ea-5f1c27070601" name="Changes" comment="😇 커밋 성공4">
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/section/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/section/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/section/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/section/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/section/port.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/section/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/section/skill.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/setting/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/setting/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/css/setting/vars.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/js/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/js/port.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/port-vite/src/assets/js/smooth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/port-vite/src/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/port-vite/src/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/port-vite/src/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/port-vite/src/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/port-vite/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/port-vite/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +58,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/portfolio/port-vite/src/assets/js",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +68,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\portfolio\port-vite\src\assets\js" />
+      <recent name="D:\portfolio\port-vite\src\assets\css\setting" />
+      <recent name="D:\portfolio\port-vite\src\assets\css\section" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690874576515</updated>
       <workItem from="1690874577861" duration="1062000" />
-      <workItem from="1690875904343" duration="151000" />
+      <workItem from="1690875904343" duration="843000" />
     </task>
     <task id="LOCAL-00001" summary="😇 커밋 성공2">
       <option name="closed" value="true" />
@@ -84,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690876001512</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="😇 커밋 성공4">
+      <option name="closed" value="true" />
+      <created>1690876080616</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690876080616</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +147,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value=" 커밋 성공2" />
     <MESSAGE value=" 커밋 성공3" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 커밋 성공3" />
+    <MESSAGE value=" 커밋 성공4" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 커밋 성공4" />
   </component>
 </project>
